@@ -1,0 +1,3 @@
+to add file to github
+
+git add "filename.extname"
