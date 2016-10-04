@@ -10,4 +10,10 @@ git commit -m "some comments" filename.extname
 
 git push -u origin master
 
+4) to clone repository
+
+git clone https://github.com/nagaiah/TestGit2.git
+
+
+
 
