@@ -17,6 +17,6 @@ git clone https://github.com/nagaiah/TestGit2.git
 5) to pull the content into a folder 
  git pull https://github.com/nagaiah/TestGit2.git
 
-
+ending of github commands
 
 
