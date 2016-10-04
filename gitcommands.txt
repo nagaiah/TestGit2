@@ -1,8 +1,13 @@
-to add file to github
+1)to add file to github
 
 git add "filename.extname"
 
-to commit use the below command
+2)to commit use the below command
 
 git commit -m "some comments" filename.extname
+
+3)to push into remote references use the below command
+
+git push -u origin master
+
 
