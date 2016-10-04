@@ -1,3 +1,8 @@
 to add file to github
 
 git add "filename.extname"
+
+to commit use the below command
+
+git commit -m "some comments" filename.extname
+
