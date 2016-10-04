@@ -1,1 +1,6 @@
 welcome to github commands
+
+to add the file to github repository
+
+git add filename.extensionname
+ex: git add testcase.txt
